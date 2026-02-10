@@ -1,5 +1,5 @@
 <html><body>
-<h1>Withdraw</h1>
+<h1>Withdraw Amount</h1>
 <form action="transaction" method="post">
 <input type="hidden" name="type" value="WITHDRAW"/>
 Amount: <input type="text" name="amount"/>
